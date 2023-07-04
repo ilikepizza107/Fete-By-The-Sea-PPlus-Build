@@ -17,8 +17,8 @@ Stage Select Screen Table Data
 TABLE_1:
 	byte[11] |
 0x15, | # Wario Land
-0x08, | # Temple of Time
 0x1C, | # Green Hill Zone
+0x08, | # Temple of Time
 0x0B, | # Frigate Husk
 0x03, | # Luigi's Mansion
 0x23, | # Dream Land
