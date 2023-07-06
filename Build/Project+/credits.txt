@@ -115,6 +115,8 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
+"Set Sail!" textures by ilikepizza107
+
 Stage Strike texture by Gou~
 
 CSS/SSS logos by Gou~
