@@ -107,8 +107,14 @@ KNUCKLES
 STAGES
 ########################
 
+Not Fete PS2 by ilikepizza107
+
 ################
 MENUS
 ################
 
 New "Ready To Fight!" Model by Xenthos
+
+Stage Strike texture by Gou~
+
+CSS/SSS logos by Gou~
