@@ -711,7 +711,7 @@ Frigate_Husk.param
 
 	STGFRIGATEHUSK.pac
 	st_final.rel
-	Frigate_Orpheon.tlst
+	Frigate_Husk.tlst
 	SFX / GFX: 0x0056 / 0x0032
 
 ################
@@ -727,7 +727,7 @@ Frigate_Husk_R.param
 
 	STGFRIGATEHUSK_R_FH_DROWNED.pac
 	st_final.rel
-	Frigate_Orpheon.tlst
+	Frigate_Husk.tlst
 	SFX / GFX: 0x013D / 0x005E
 
 ################
@@ -794,7 +794,7 @@ Green_Hill_Zone_L.param
 ################
 Green_Hill_Zone_R.param
 
-	STGGREENHILLZONE_R_GHZ_PROJECTM.pac
+	STGGREENHILLZONE_R_GHZ_PROJECTPLUS.pac
 	st_greenhill.rel
 	Green_Hill_Zone.tlst
 	SFX / GFX: 0x0066 / 0x0054
@@ -1512,7 +1512,7 @@ Pokemon_Stadium_2_L.param
 ################
 Pokemon_Stadium_2_R.param
 
-	STGPOKEMONSTADIUM_R_RADIANT.pac
+	STGPOKEMONSTADIUM_R_VANILLA.pac
 	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
@@ -1836,20 +1836,10 @@ Sky_Sanctuary_Z.param
 ################
 Smashville.param
 
-	[Substages / Normal]
-	- STGSMASHVILLE_00_MORNING.PAC
-	- STGSMASHVILLE_01_NOON.PAC
-	- STGSMASHVILLE_02_DUSK.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
-
+	STGSMASHVILLE.pac
 	st_village.rel
 	Smashville.tlst
 	SFX / GFX: 0x0064 / 0x0032
-	Flags: OldSubstage
 
 ################
 Smashville_L.param
@@ -1862,24 +1852,25 @@ Smashville_L.param
 ################
 Smashville_R.param
 
-	STGSMASHVILLE_R_SV_BEACH.pac
+	[Substages / Normal]
+	- STGSMASHVILLE_R_VANILLA_00_MORNING.PAC
+	- STGSMASHVILLE_R_VANILLA_01_NOON.PAC
+	- STGSMASHVILLE_R_VANILLA_02_DUSK.PAC
+	- STGSMASHVILLE_R_VANILLA_03_NIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_03_NIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_03_NIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_04_MIDNIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_04_MIDNIGHT.PAC
+
 	st_village.rel
-	Smashville_Tropical.tlst
+	Smashville.tlst
 	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
 
 ################
 Smashville_Y.param
 
-	[Substages / Normal]
-	- STGSMASHVILLE_00_MORNING.PAC
-	- STGSMASHVILLE_01_NOON.PAC
-	- STGSMASHVILLE_02_DUSK.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
-
+	STGSMASHVILLE.pac
 	st_village.rel
 	Smashville_Concert.tlst
 	SFX / GFX: 0x0064 / 0x0032
@@ -1897,7 +1888,16 @@ Smashville_YL.param
 ################
 Smashville_YR.param
 
-	STGSMASHVILLE_R_SV_BEACH.pac
+	[Substages / Normal]
+	- STGSMASHVILLE_R_VANILLA_00_MORNING.PAC
+	- STGSMASHVILLE_R_VANILLA_01_NOON.PAC
+	- STGSMASHVILLE_R_VANILLA_02_DUSK.PAC
+	- STGSMASHVILLE_R_VANILLA_03_NIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_03_NIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_03_NIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_04_MIDNIGHT.PAC
+	- STGSMASHVILLE_R_VANILLA_04_MIDNIGHT.PAC
+
 	st_village.rel
 	Smashville_Concert.tlst
 	SFX / GFX: 0x0064 / 0x0032
