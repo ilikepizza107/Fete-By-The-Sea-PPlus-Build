@@ -5,6 +5,10 @@ PSA
 PSA edits for Prof Pro's Snake Dance Taunt (Hold down taunt + A + B) by ilikepizza107, animation by JordanTri-Fource with credit to SilentDoom (edits by ilikepizza107) [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=208642]
  -PSA Edited: Sub Action 1E, Other; Sub Action 1C0, Main
 
+PSA edits for Shifty Marth by SSK and KingJigglypuff
+ -PSA Added: Subroutine 2x78F8, 2x82A0, 2x88C0
+ -PSA Edited: Sub Actions 48, GFX; 49, GFX; 4E, GFX; 50, GFX; 54, GFX; 55, GFX; 58, GFX; 5D, GFX; 60, GFX; 62, GFX; 63, GFX; 64, GFX; 65, GFX; 66, GFX; B0, GFX; B9, GFX; D7, GFX; DC, GFX; E7, GFX; 1D0, GFX; 1D1, GFX; 1D6, GFX; 1D7, GFX; 1D8, GFX; 1D9, GFX; 1DA, GFX; 1DB, GFX; 1DC, GFX; 1DD, GFX; 1DE, GFX; 1E8, GFX; 1EB, GFX; 1EE, GFX; 1EF, GFX; 1F0, GFX; 1F1, GFX; 1F2, GFX; 1F3, GFX; 1F4, GFX
+
 ################
 SKINS
 ################
@@ -43,6 +47,7 @@ SHEIK
 ICE CLIMBERS
 
 MARTH
+07 - Shifty Marth by ilikepizza107
 AltR - Steve by Mattimation [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=204113]
 
 MR. GAME & WATCH
@@ -50,6 +55,7 @@ MR. GAME & WATCH
 FALCO
 
 GANONDORF
+AltZ - Billy Mays by Tennet (http://forums.kc-mm.com/Gallery/BrawlView.php?Number=326)
 
 META KNIGHT
 
